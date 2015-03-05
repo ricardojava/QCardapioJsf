@@ -35,7 +35,7 @@
 		<dependency>
 			<groupId>org.primefaces</groupId>
 			<artifactId>primefaces</artifactId>
-			<version>5.0</version>
+			<version>4.0</version>
 		</dependency>
 		<dependency>
 			<groupId>javax.servlet.jsp.jstl</groupId>
@@ -47,5 +47,10 @@
 			<artifactId>jstl</artifactId>
 			<version>1.2</version>
 		</dependency>
+		<dependency>
+	<groupId>javax.faces</groupId>
+	<artifactId>jsf-api</artifactId>
+	<version>2.1</version>
+</dependency>
 	</dependencies>
 </project>
